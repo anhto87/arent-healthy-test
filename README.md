@@ -95,19 +95,19 @@ Accept: application/json
 ```
 ### Recommended diet (name by figma design)
 ```azure
-GET /api/diets/columns HTTP/1.1
+GET /api/recommends/diets HTTP/1.1
 Host: arent_healthy.test
 Accept: application/json
 ```
 ### Recommended beauty (name by figma design)
 ```azure
-GET /api/beauty/columns HTTP/1.1
+GET /api/recommends/beauty HTTP/1.1
 Host: arent_healthy.test
 Accept: application/json
 ```
 ### Recommended health (name by figma design)
 ```azure
-GET /api/health/columns HTTP/1.1
+GET /api/recommends/health HTTP/1.1
 Host: arent_healthy.test
 Accept: application/json
 ```
